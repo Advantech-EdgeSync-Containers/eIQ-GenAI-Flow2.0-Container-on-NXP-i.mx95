@@ -10,7 +10,6 @@ services:
     devices:
       - /dev/neutron0
     volumes:
-      - /usr/lib/python3.13/site-packages/onnxruntime:/usr/local/lib/python3.13/dist-packages/onnxruntime:ro
-      - /usr/lib/python3.13/site-packages/onnxruntime-1.22.0.dist-info:/usr/local/lib/python3.13/dist-packages/onnxruntime-1.22.0.dist-info:ro
+      - /dev:/dev
     stdin_open: true
     tty: true 
