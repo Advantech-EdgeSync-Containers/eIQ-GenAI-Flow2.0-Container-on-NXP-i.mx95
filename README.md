@@ -36,7 +36,7 @@ The `eIQ GenAI Flow 2.0 on NXP i.MX95` container image provides a comprehensive 
 |--------------------|-----------------------------------------------------|
 | **Device Host**    | Yocto 5.2 Walnascar                                 |
 | **Container**      | Ubuntu:24.04                                        |
-| **Base Container** | [NXP-iMX95-Neutron-Passthrough Container](https://github.com/Advantech-EdgeSync-Containers/Neutron-NPU-Passthrough-on-NXP-i.mx95)            |
+| **Base Container** | [NXP-iMX95-Neutron-Passthrough Container](https://github.com/Advantech-Containers/Neutron-NPU-Passthrough-on-NXP-i.mx95)            |
 
 
 ## Software Components
